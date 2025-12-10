@@ -7,3 +7,11 @@ Student Planner
 ## Deskripsi Singkat
 Student Planner adalah aplikasi sederhana namun efektif untuk membantu siswa dan mahasiswa mengelola tugas harian.
 Dengan fitur checklist, edit, dan hapus, pengguna bisa fokus pada apa yang harus diselesaikan tanpa ketinggalan deadline.
+
+## Fitur
+-Daftar tugas dengan checkbox (selesai/tidak)
+-Tombol edit dan hapus setiap tugas
+-Tombol “Buat Penugasan” untuk menambah tugas baru
+-Desain bersih dan minimalis
+-Status tugas berubah warna saat selesai (hijau + centang)
+-Debug banner (untuk versi development)
