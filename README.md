@@ -1,4 +1,4 @@
-# project.uts
+# Project.Uts
 Siti Rohmah 14012500153
 
 ## Nama Project
@@ -15,3 +15,6 @@ Dengan fitur checklist, edit, dan hapus, pengguna bisa fokus pada apa yang harus
 -Desain bersih dan minimalis
 -Status tugas berubah warna saat selesai (hijau + centang)
 -Debug banner (untuk versi development)
+
+## Cara Menjalankan
+flutter run
