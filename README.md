@@ -18,3 +18,6 @@ Dengan fitur checklist, edit, dan hapus, pengguna bisa fokus pada apa yang harus
 
 ## Cara Menjalankan
 flutter run
+
+## Halaman Utama
+<img width="466" height="557" alt="Image" src="https://github.com/user-attachments/assets/77462a67-cc61-4bf1-8659-6cd9479ceb73" />
